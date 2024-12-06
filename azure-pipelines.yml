@@ -2,7 +2,7 @@ trigger:
   - main
 
 pool:
-  vmImage: 'rivalProyect'
+  name: 'GitHub-Codespaces-Pool'
 
 variables:
   buildConfiguration: 'Release'
